@@ -1,0 +1,9 @@
+{
+  "name": "0xalchemist-react-bulma-template",
+  "version": "0.1.0",
+  "description": "Starter template for React apps",
+  "main": "index.js",
+  "repository": "https://github.com/0xAlchemist/react-bulma-template.git",
+  "author": "@0xAlchemist",
+  "license": "MIT"
+}
