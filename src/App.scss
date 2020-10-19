@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+// Import the Darkly theme variables
+@import "~bulmaswatch/darkly/_variables.scss";
+
+// Import the Bulma styles
+// -- Needs to be done before importing overrides
+@import "~bulma";
+
+// Import the Darkly overrides
+@import "~bulmaswatch/darkly/_overrides.scss";
