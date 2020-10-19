@@ -1,5 +1,13 @@
 import React from "react";
 
-const App = () => <h1>0xAlchemist's React Boilerplate</h1>;
+import Hero from "./components/bulma/Hero";
+
+import "./App.scss";
+
+const App = () => (
+  <div>
+    <Hero />
+  </div>
+);
 
 export default App;
