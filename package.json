@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/0xAlchemist/react-bulma-template.git",
   "author": "@0xAlchemist",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  }
 }
